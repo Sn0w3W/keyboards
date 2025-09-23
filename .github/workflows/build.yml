@@ -1,5 +1,9 @@
 name: Build
 
+permissions:
+  contents: write   # нужно для релизов/загрузки ассетов
+  actions: read
+
 on:
   push:
     branches: [master]
