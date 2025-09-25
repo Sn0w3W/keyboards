@@ -198,6 +198,11 @@
         "shortName": "RCmd"
         },
         {
+        "name": "Screen Shot",
+        "title": "Screenshot in macOS",
+        "shortName": "SShot"
+        },
+        {
         "name": "Task View",
         "title": "Task View in windows",
         "shortName": "Task"
@@ -206,11 +211,6 @@
         "name": "File Explorer",
         "title": "File Explorer in windows",
         "shortName": "File"
-        },
-        {
-        "name": "Screen Shot",
-        "title": "Screenshot in macOS",
-        "shortName": "SShot"
         }
     ]
 }
