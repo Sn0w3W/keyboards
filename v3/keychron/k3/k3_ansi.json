@@ -198,11 +198,6 @@
         "shortName": "RCmd"
         },
         {
-        "name": "Siri",
-        "title": "Siri in macOS",
-        "shortName": "Siri"
-        },
-        {
         "name": "Task View",
         "title": "Task View in windows",
         "shortName": "Task"
@@ -216,11 +211,6 @@
         "name": "Screen Shot",
         "title": "Screenshot in macOS",
         "shortName": "SShot"
-        },
-        {
-        "name": "Cortana",
-        "title": "Cortana in windows",
-        "shortName": "Cortana"
         }
     ]
 }
